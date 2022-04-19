@@ -1,4 +1,4 @@
-# Recriando Interface NetFlix
+# Recriando a Interface do NetFlix
 ### Bootcamp Carrefour - Digital Inovation One
 </p>Projeto para recriar a interface da NetFlix desenvolvido para o Bootcamp Carrefour - DIO com o Professor: Felipe Aguiar</p>
 
@@ -7,3 +7,5 @@
 #### Tecnologias Utilizadas
 
 ##### HTML5 CSS3 JAVASCRIPT JQUERY
+
+<p>Adicionado um footer simples com informações do Desafio</p>
