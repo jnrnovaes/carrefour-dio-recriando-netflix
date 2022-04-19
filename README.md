@@ -9,3 +9,5 @@
 ##### HTML5 CSS3 JAVASCRIPT JQUERY
 
 <p>Adicionado um footer simples com informações do Desafio</p>
+
+Acesse a página: [carrefour-dio-recriando-netflix](https://jnrnovaes.github.io/carrefour-dio-recriando-netflix/)
