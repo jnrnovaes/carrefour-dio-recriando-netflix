@@ -1,2 +1,9 @@
-# carrefour-dio-recriando-netflix
-Projeto para recriar a interface da Netflix desenvolvido para o bootcamp Carrefour - DIO
+# Recriando Interface NetFlix
+### Bootcamp Carrefour - Digital Inovation One
+</p>Projeto para recriar a interface da NetFlix desenvolvido para o Bootcamp Carrefour - DIO com o Professor: Felipe Aguiar</p>
+
+![Série - Lista Negra!](/img/Capa-lista-negra.jpg "Capa da série Lista Negra")
+
+#### Tecnologias Utilizadas
+
+##### HTML5 CSS3 JAVASCRIPT JQUERY
